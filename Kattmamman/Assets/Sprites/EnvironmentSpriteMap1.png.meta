@@ -1,0 +1,278 @@
+fileFormatVersion: 2
+guid: 66e036a6fe1a900489e4e32ed674e98f
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Grass_1
+    21300002: Birds_1
+    21300004: Cloud_1
+    21300006: Stars_2
+    21300008: Cloud_2
+    21300010: Stars_1
+    21300012: Glow_2
+    21300014: Glow_1
+    21300016: Cloud_3
+    21300018: Trees_1
+    21300020: Mountain_2
+    21300022: Mountain_1
+    21300024: Water_1
+    21300026: Trees_2
+    21300028: Cloud_6
+    21300030: Cloud_5
+    21300032: Cloud_4
+    21300034: Hill_1
+    21300036: Birds_2
+    21300038: Birds_3
+    21300040: Hill_2
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Grass_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1902
+        width: 1455
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Birds_1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1714
+        width: 251
+        height: 155
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 1, z: 0, w: 0}
+    - name: Cloud_1
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 1717
+        width: 540
+        height: 299
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stars_2
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1572
+        width: 1060
+        height: 281
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cloud_2
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1366
+        width: 652
+        height: 201
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stars_1
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 1213
+        width: 624
+        height: 333
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Glow_2
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 1028
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Glow_1
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 863
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cloud_3
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 856
+        width: 685
+        height: 231
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Trees_1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 939
+        width: 860
+        height: 310
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mountain_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 795
+        width: 1050
+        height: 95
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mountain_1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 609
+        width: 709
+        height: 159
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Water_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 391
+        width: 1112
+        height: 148
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Trees_2
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 6
+        width: 846
+        height: 136
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cloud_6
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 119
+        width: 462
+        height: 234
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cloud_5
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 176
+        width: 368
+        height: 256
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cloud_4
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 462
+        width: 587
+        height: 294
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hill_1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 8
+        width: 660
+        height: 344
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Birds_2
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1719
+        width: 101
+        height: 77
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Birds_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1719
+        width: 60
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hill_2
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 1368
+        width: 658
+        height: 347
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
