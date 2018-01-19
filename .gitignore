@@ -32,3 +32,14 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+/Kattmamman/Temp/
+/Kattmamman/.vs/
+/Kattmamman/Library/ShaderCache
+/Kattmamman/Library/metadata
+/Kattmamman/.vs/Kattmamman/v15/Server/sqlite3/storage.ide
+/Kattmamman/Library/il2cpp_cache*
+/Kattmamman/Library/PlayerDataCache/
+/Kattmamman/Library/shadercompiler*
+/Kattmamman/Library/webgl_cache/
+/Kattmamman/Library/SplashScreenCache/
